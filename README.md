@@ -1,5 +1,4 @@
-﻿==========================
-Solar Radiation Application for ArcGIS Viewer for Flex 2.3.1
+﻿Solar Radiation Application for ArcGIS Viewer for Flex 2.3.1
 ==========================
 
 Introduction:
