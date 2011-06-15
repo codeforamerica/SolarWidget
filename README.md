@@ -86,9 +86,8 @@ Modifying the widget
 You may want to modify the source code of the widget as it applies to your city. If you click on the Chart icon for the widget, a summary of the building or polygon is shown. You may want to remove or modify some of these values, depending on your location.
 
 
-================
 More Information
-================
+----------------
 
 Flex Viewer: http://help.arcgis.com/en/webapps/flexviewer/index.html
 Flex API http://help.arcgis.com/en/webapi/flex/index.html
